@@ -8,6 +8,7 @@ Tracks record of your speed/pace,time,and elevation/cadence to help you improve 
 
 Always tracks your location and and 200m diameter around you
 
-Made with Vanilla Js & used open source Leaflet Js🐱‍👤
+## Made with Vanilla Js & used open source Leaflet Js🐱‍👤
 
-Link:
+Link 1(live):https://brave-colden-809b1e.netlify.app/
+Link 2(live):
